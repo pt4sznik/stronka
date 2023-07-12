@@ -79,7 +79,7 @@ color: white;
     border-style: dotted;
     position: absolute;
     top: 400px;
-    left: 1400px;
+    left: 100px;
 }
 .signup-box{
     width: 400px;
@@ -97,7 +97,7 @@ color: white;
 }
 .formsignup{
     width: 200px;
-    margin-left: 825px;
+    margin-left: 680px;
     margin-top: 10px;
     margin-bottom: 25px;
 }
@@ -132,7 +132,7 @@ color: white;
     font-size: 16px;
 }
 .loginhere{
-    margin-left: 878px;
+    margin-left: 738px;
     border: none;
     font-size: 18px;
     color: white;
