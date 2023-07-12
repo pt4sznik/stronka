@@ -11,6 +11,7 @@ html, body{
     background-image: url('./zdjecia/tło.jpg');
     background-repeat: repeat;
     height: 150%;
+    width: 100%;
 }
 .tabelka{
     width: 20%;
