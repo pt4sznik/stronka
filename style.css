@@ -1,0 +1,154 @@
+html, body{
+    width: 100%;
+    height: 150%;
+    margin: 0px;
+    color: white;
+    text-shadow: 1px 1px 1px #6d6a6a;
+
+
+}
+.tło{
+    background-image: url('./zdjecia/tło.jpg');
+    background-repeat: repeat;
+    height: 150%;
+}
+.tabelka{
+    width: 20%;
+    height: 5%;
+    float: left;
+}
+.nazwaglowna{
+    position: absolute;
+    padding: 5px;
+    top:10px;
+    left:120px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 5px 5px #000000;
+}
+.cases{
+    position: absolute;
+    padding: 5px;
+    top: 10px;
+    left: 400px;
+    color: white;
+}
+.cases:hover{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(118, 180, 235);
+    font-size: 18px;
+}
+.upgrade{
+position: absolute;
+padding: 5px;
+top: 10px;
+left: 600px;
+color: white;
+}
+.upgrade:hover{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(118, 180, 235);
+    font-size: 18px;
+}
+.account{
+    position: absolute;
+    padding: 5px;
+    top: 10px;
+    left: 1300px;
+    color: white;
+}
+.account:hover{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(118, 180, 235);
+    font-size: 18px;
+}
+.h3elo{
+    border: 20px;
+    border-color: pink;
+    border-style: solid;
+    font-size: 100px;
+    position: absolute;
+    top: 500px;
+}
+.logowanie{
+    border: 5px;
+    border-color: #ff0101;
+    border-style: dotted;
+    position: absolute;
+    top: 400px;
+    left: 1400px;
+}
+.signup-box{
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 3px;
+
+}
+.h1signup{
+    text-align: center;
+    padding-top: 100px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+.formsignup{
+    width: 200px;
+    margin-left: 825px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+.labelsignup{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.inputsignup{
+    width: 100%;
+    padding: 1px;
+    border: none;
+    border: 1px solid rgb(110, 102, 102);
+    border-radius: 10px;
+}
+.inputsignup:hover{
+   background-color: rgb(240, 225, 225);
+}
+.bottomsubmit{
+    width: 100px;
+    height: 25px;
+    margin-top: 20px;
+    border: none;
+    background-color: aqua;
+    color: black;
+    text-shadow: 1px 1px 1px, white;
+    font-size: 14px;
+    margin-left: 45px;
+    border-radius: 10px;
+}
+.bottomsubmit:hover{
+    font-size: 16px;
+}
+.loginhere{
+    margin-left: 878px;
+    border: none;
+    font-size: 18px;
+    color: white;
+}
+.loginhere:hover{
+    font-size: 19px;
+}
+.logo{
+    float: left;
+    width: 50%;
+    display: relative;
+}
+.twarze{
+    display: block;
+}
+.góra{
+    width: 20%; 
+    height: 120%;
+    float: left;
+}
