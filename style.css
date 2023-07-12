@@ -78,75 +78,11 @@ color: white;
     border-color: #ff0101;
     border-style: dotted;
     position: absolute;
-    top: 400px;
-    left: 100px;
+    top: 200px;
+    left: 600px;
 }
 .signupbotton{
     color: white;
-}
-.signup-box{
-    width: 400px;
-    height: 200px;
-    margin: 0%;
-    border-radius: 3px;
-    margin: 0%;
-
-}
-.h1signup{
-    margin-top: 60px;
-    margin-left: 39px;
-}
-.formsignup{
-    width: 200px;
-    padding-left: 680px;
-    padding-top: 10px;
-    padding-bottom: 25px;
-}
-.labelsignup{
-    display: flex;
-    padding-top: 20px;
-    font-size: 18px;
-    margin: 0%;
-}
-.inputsignup{
-    width: 100%;
-    padding: 1px;
-    border: none;
-    border: 1px solid rgb(0, 0, 0);
-    border-radius: 10px;
-    margin: 0%;
-}
-.inputsignup:hover{
-   background-color: rgb(206, 206, 206);
-   margin: 0%;
-}
-.bottomsubmit{
-    border: none;
-    background-color: aqua;
-    color: black;
-    text-shadow: 1px 1px 1px, white;
-    font-size: 14px;
-    padding-left: 5px;
-    padding-top: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-    border-radius: 10px;
-    width: 100px;
-    margin-top: 15px;
-    margin-left: 45px;
-
-}
-.bottomsubmit:hover{
-    font-size: 16px;
-}
-.loginhere{
-    margin-left: 738px;
-    border: none;
-    font-size: 18px;
-    color: white;
-}
-.loginhere:hover{
-    font-size: 19px;
 }
 .logo{
     float: left;
